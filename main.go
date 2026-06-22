@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/urfave/cli/v2"
-	"github.com/wormsystem-cmd/sql-injection-scanner/internal/cmd"
+	"github.com/wormsystem-cmd/sql-injection-scanner/cmd"
 )
 
 const (
