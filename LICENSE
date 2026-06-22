@@ -1,21 +1,77 @@
-MIT License
+WORM SYSTEM ENTERPRISE LICENSE
+©️ Copyright © 2024 WORM SYSTEM
+All Rights Reserved
 
-Copyright (c) 2024 SQL Injection Scanner
+================================================================================
+PRODUCT: SQL Injection Scanner (Advanced Edition)
+VERSION: 2.0.0
+PRODUCED BY: WORM SYSTEM - Enterprise Security Solutions
+================================================================================
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+THIS SOFTWARE IS PROPRIETARY AND CONFIDENTIAL
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. LICENSE GRANT
+   WORM SYSTEM grants you a non-exclusive, non-transferable license to use
+   this software solely for authorized security testing and vulnerability
+   assessment purposes on systems you own or have explicit permission to test.
 
-THE SOFTWARE IS PROVIDED "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. RESTRICTIONS
+   You may NOT:
+   - Modify, reverse engineer, decompile, or disassemble the software
+   - Distribute, sublicense, or lease the software
+   - Use the software for unauthorized testing of third-party systems
+   - Remove or alter copyright, trademark, or proprietary notices
+   - Use the software for illegal or unethical purposes
+
+3. INTELLECTUAL PROPERTY
+   All intellectual property rights, including patents, copyrights, and trade
+   secrets, remain the exclusive property of WORM SYSTEM.
+
+4. WARRANTY DISCLAIMER
+   THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+5. LIABILITY LIMITATION
+   IN NO EVENT SHALL WORM SYSTEM BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+   SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM THE USE OF OR
+   INABILITY TO USE THIS SOFTWARE.
+
+6. PERMITTED USE
+   This software is permitted for use only:
+   ✓ On systems you own or operate
+   ✓ With explicit written permission from system owners
+   ✓ For legitimate security research and testing
+   ✓ In compliance with all applicable laws and regulations
+
+7. PROHIBITED USE
+   This software is prohibited for:
+   ✗ Unauthorized access to computer systems
+   ✗ Data theft or unauthorized disclosure of information
+   ✗ Disruption of services or systems
+   ✗ Any illegal or criminal activity
+   ✗ Violation of privacy laws and regulations
+
+8. TERMINATION
+   This license is effective until terminated. WORM SYSTEM may terminate this
+   license immediately if you violate any terms of this agreement.
+
+9. SUPPORT AND MAINTENANCE
+   Enterprise support and maintenance are available through:
+   - Email: security@wormsystem.com
+   - Phone: +966-xxx-xxx-xxxx
+   - Website: https://wormsystem.com
+
+10. GOVERNING LAW
+    This license is governed by the laws of the jurisdiction in which
+    WORM SYSTEM operates.
+
+================================================================================
+
+For commercial licensing, enterprise agreements, or additional terms,
+please contact: contact@wormsystem.com
+
+By using this software, you agree to all terms and conditions of this license.
+
+©️ WORM SYSTEM - Enterprise Security Solutions
+Making the Digital World Safer
