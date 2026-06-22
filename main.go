@@ -19,7 +19,6 @@ func main() {
 		Name:    AppName,
 		Usage:   "Advanced SQL Injection Detection Tool",
 		Version: Version,
-		Author:  "WORM SYSTEM",
 		Copyright: "©️ Copyright © 2024 WORM SYSTEM - All Rights Reserved",
 		Description: `
 Advanced SQL Injection Scanner built with Go for high performance
