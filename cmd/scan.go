@@ -2,6 +2,7 @@ package cmd
 
 import (
 	"fmt"
+	"strings"
 
 	"github.com/fatih/color"
 	"github.com/urfave/cli/v2"
@@ -14,9 +15,10 @@ func ScanCommand(c *cli.Context) error {
 	yellow := color.New(color.FgYellow)
 
 	// عرض رسالة البداية
-	cyan.Println("="*60)
+	line := strings.Repeat("=", 60)
+	cyan.Println(line)
 	yellow.Println("   SQL Injection Scanner 🛡️")
-	cyan.Println("="*60)
+	cyan.Println(line)
 
 	url := c.String("url")
 	urlsFile := c.String("urls-file")

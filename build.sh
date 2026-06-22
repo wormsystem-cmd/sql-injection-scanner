@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # SQL Injection Scanner Build Script
-# ©️ Copyright © 2024 WORM SYSTEM - All Rights Reserved
+# © Copyright © 2024 WORM SYSTEM - All Rights Reserved
 
 set -e
 
@@ -20,11 +20,14 @@ echo "✓ Go version: $GO_VERSION"
 # تنزيل المتطلبات
 echo "📦 Downloading dependencies..."
 go mod download
+go mod tidy
 
 # البناء
 echo "🔨 Building binary..."
 go build -o scanner .
 
-echo "\n✅ Build completed successfully!"
+echo ""
+echo "✅ Build completed successfully!"
 echo "🚀 Run with: ./scanner --help"
-echo "\n©️ WORM SYSTEM - Enterprise Security Solutions"
+echo ""
+echo "© WORM SYSTEM - Enterprise Security Solutions"
