@@ -4,7 +4,7 @@
 
 ---
 
-**©️ Copyright © 2024 WORM SYSTEM**  
+**©️ Copyright © 2026 WORM SYSTEM**  
 *Enterprise Security Solutions*
 
 **All Rights Reserved** | Licensed under WORM SYSTEM Enterprise License
