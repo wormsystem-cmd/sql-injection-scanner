@@ -292,16 +292,10 @@ sql-injection-scanner/
 ## 📝 الترخيص
 
 ```
-©️ Copyright © 2024 WORM SYSTEM
+©️ Copyright © 2026 WORM SYSTEM
 All Rights Reserved
 
-هذا المشروع مملوك لشركة WORM SYSTEM
-ولا يجوز استخدامه أو توزيعه بدون إذن صريح
 ```
-
-**Enterprise License** - للاستفسارات التجارية:
-📧 contact@wormsystem.com
-
 ---
 
 ## 🤝 المساهمة
@@ -317,10 +311,7 @@ All Rights Reserved
 
 ## 📞 التواصل والدعم
 
-- 🌐 **Website:** https://wormsystem.com
-- 📧 **Email:** security@wormsystem.com
-- 🐦 **Twitter:** @wormsystem_sec
-- 📱 **Support:** +966-xxx-xxx-xxxx
+-  **غير متوفر حالياً**
 
 ---
 
